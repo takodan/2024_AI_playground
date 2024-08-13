@@ -1,0 +1,7 @@
+.venv/
+Meta-Llama-3.1-8B-Instruct/
+sample/
+
+download.sh
+test.ipynb
+USE_POLICY.md
