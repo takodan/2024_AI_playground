@@ -2,9 +2,9 @@ import whisper
 import datetime
 import time
 
-input_path: str = "sample/test1.m4a"
-output_path: str = "sample/test1.srt"
-outline: str = "Mumei and Baelz are having conversation"
+input_path: str = "sample/test_short.m4a"
+output_path: str = "sample/test_short.srt"
+outline: str = "Bae's Mom Thought that Bae Finally got a Boyfriend"
 
 # tiny, tiny.en, base, base.en, small, small.en, medium, medium.en
 whisper_model = "base"

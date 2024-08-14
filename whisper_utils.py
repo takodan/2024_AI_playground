@@ -7,7 +7,8 @@ output_path = "sample/"
 output_name = "約旦奇遇_chinese"
 # txt, vtt, srt, tsv, json, all
 output_format = "srt"
-outline = "約旦奇遇"
+# initial prompt
+outline = "〈約旦奇遇〉一期能改變你對中東刻板印象的視頻"
 
 # tiny, tiny.en, base, base.en, small, small.en, medium, medium.en
 whisper_model = "medium"

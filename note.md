@@ -6,7 +6,7 @@
 4. srt file format https://github.com/openai/whisper/discussions/98
 
 
-## debug (windows11)
+## whisper debug (windows11)
 1. check CUDA version `cmd`: `nvidia-smi`
 2. install PyTorch with CUDA support `cmd`: `pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124`
 3. pip install without catch `cmd`: `--no-cache-dir`
